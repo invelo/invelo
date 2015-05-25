@@ -1,0 +1,19 @@
+{
+  "name": "invelo",
+  "version": "1.0.0",
+  "authors": [
+    "crewmoss <cm@crewmoss.com>"
+  ],
+  "description": "Invelo",
+  "main": "invelo.js",
+  "license": "MIT",
+  "homepage": "https://developers.invelo.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ]
+}
